@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./CSS/all.min.css">
+    <link rel="stylesheet" href="./CSS/fontawesome.min.css">
+    <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Home page</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand text-primary font-weight-bold ml-5" href="#">OBAT Open Library,Rangpur</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-auto ml-5 mr-5">
+                <li class="nav-item active">
+                    <a class="nav-link text-primary" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-primary" href="#">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-primary" href="#">Gallery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-primary" href="#">Writers</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-primary" href="#">Events</a>
+              </li>
+                <li class="nav-item">
+                    <a class="nav-link text-primary" href="#">Missions</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Drop-down
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="#">Page 1</a>
+                        <a class="dropdown-item" href="#">Page 2</a>
+                        <a class="dropdown-item" href="#">Page 3</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-primary btn-md text-white ml-3 active">Join Us</button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!--header-->
+    <header class="jumbotron" style="background-image: url(./nature334.jpg
+); background-size: cover; background-repeat: no-repeat; min-height: 60vh;">
+        <div class="pt-5 text-center">
+         
+            <h1 class="text-white font-weight-bold display-3">Welcome to Our Side</h1>
+            <p class="text-white display-5">We A book is a medium for recording information in the form of writing or 
+                images, typically composed of many pages (made of papyrus, parchment, vellum, or paper) bound together 
+                and protected by a cover.[1] The technical term for this physical arrangement is codex (plural, codices).
+                 In the history of hand-held physical supports for extended written compositions or records, the codex 
+                 replaces its predecessor, the scroll. A single sheet in a codex is a leaf and each side of a leaf is 
+                 a page.
+            </p>
+            <a href="#" class="btn btn-outline-danger active btn-lg mt-5">Click</a>
+        </div>
+    </header>
+    <!doctype html>
+<html lang="en">
+
+<head>
+    
+    <!--Jumbotron-->
+    <div class="jumbotron">
+    <h2 class="text-center pt-2">Online Book </h2>
+    
+             <div class="row ">
+
+                <div class="col-sm-4 ">
+                    <div class="card "style="width: 18rem; float:left; margin-top:25px; margin-left:10%;">
+                        <img class="card-img-top" src="./download (1).jpg" alt="Card image cap" width="200">
+                        <div class="card-body">
+                            
+                            <h5 class="card-title mt-3 font-weight-bold text-center text-primary">The Best Historical Fiction</h5>
+                            <p class="card-text">Alice may be the president’s daughter, but she’s nobody’s darling. 
+                                As bold as her signature color Alice Blue, the gum-chewing, cigarette-smoking, 
+                                poker-playing First Daughter discovers that the only way for a woman to stand out in 
+                                Washington is to make .</p>
+
+                        </div>
+                        
+                    </div>
+
+                </div>
+
+                <div class="col-sm-4 width:13rem; height:9rem  ">
+                    <div class="card " style="width: 18rem; float:left; margin-top:25px; margin-left:20%; margin-right:60%;">
+                        <img class="card-img-top" src="./download (2).jpg" alt="Card image cap">
+                          <div class="card-body">
+                            
+                           
+                            <h5 class="card-title mt-3 font-weight-bold text-center text-primary">General Knowledge 2020 </h5>
+                            <p class="card-text">Arts & Photography
+                                Biographies & Memoirs Business & Money Children's Books Christian Books & Bibles
+                                Comics & Graphic Novels Computers & Technolog Cookbooks, Food & Wine Crafts, Hobbies & Home
+                                Education & Teachin Engineering & Transportatio.</p>
+
+                        </div>
+                        
+                    </div>
+
+                </div>
+
+                <div class="col-sm-4 ">
+                    <div class="card " style="width: 18rem;float:left; margin-top:25px; margin-left:25%; ">
+                        <img class="card-img-top" src="./download.jpg" alt="Card image cap">
+                        <div class="card-body">
+                           
+                            <h5 class="card-title mt-3 font-weight-bold text-center text-primary">Descrizione</h5>
+                            <p class="card-text">The Publishers offer in this volume well known and long loved and extremely
+                                 well illustrated stories to their young readers. These tales have had delighted the children 
+                                 of many generations and will be equally welcome in the nurseries of the present day, which,
+                                  .</p>
+                        </div>
+                        
+                    </div>
+
+                </div>
+               
+        </div>
+    </div>
+
+
+<!-----visite---->
+<h2 class="text-center">Our Team </h2>
+<div class="row  p-5">
+<div class="card5">
+    <div class="ami">
+  <img class="mim" src="./guddu333.jpg" alt="John" style="width:50%">
+
+  <h1 class="pt-5" >Mr.Shahinur </h1>
+  <h2>Convener</h2>
+  <i class="text-primary">OBAT Open Library,Rangpur</i>
+  <p class="pt-3">He is also honorable  Project Officer,OBAT Helper's,Rangpur,in-Charge,OBAT Junior high School,Bangladesh,Team Leader,OBAT Think Tank,Rangpur</p>
+</div>
+  <div class="icon">
+    <a href="#"><i class="fa fa-dribbble ml-4"></i></a>
+     <a href="#"><i class="fa fa-twitter ml-4"></i></a>
+     <a href="#"><i class="fa fa-linkedin ml-4"></i></a>
+     <a href="#"><i class="fa fa-facebook ml-4"></i></a>
+    </div>
+  
+  
+</div>
+<div class="card5">
+    <div class="ami">
+    <img class="mim" src="./arshad.jpg" alt="John" style="width:50%">
+     <h1 class="pt-5">Mr.Arshad Iqbal</h1>
+    <h2 >Secretary of Member</h2>
+    <i class="text-primary ">OBAT Open Library,Rangpur</i>
+    <p class="pt-3">He is also honorable Information Technology Facilitator,OBAT Information Technology Center,Bangladesh,Computer Trainer,OBAT Computer Center ,Rangpur. </p>
+</div>
+    <div class="icon">
+        <a href="#"><i class="fa fa-dribbble ml-4"></i></a>
+         <a href="#"><i class="fa fa-twitter ml-4"></i></a>
+         <a href="#"><i class="fa fa-linkedin ml-4"></i></a>
+         <a href="#"><i class="fa fa-facebook ml-4"></i></a>
+        </div>
+    
+    
+  </div>
+  <div class="card5">
+    <div class="ami">
+    <img class="mim" src="./enam.jpg" alt="John" style="width:50%">
+    <h1 class="pt-5">Mr.Enamul </h1>
+    <h2 >Executive Member</h2>
+    <i class="text-primary">OBAT Open Library,Rangpur</i>
+    <p class="pt-3">He is also honorable Account officer,OBAT Helper's,Rangpur,In-charge,OBAT Tutoring Center,Bangladesh,Advicer,OBAT Think Tank Rangpur </p>
+</div>
+    <div class="icon">
+        <a href="#"><i class="fa fa-dribbble ml-4"></i></a>
+         <a href="#"><i class="fa fa-twitter ml-4"></i></a>
+         <a href="#"><i class="fa fa-linkedin ml-4"></i></a>
+         <a href="#"><i class="fa fa-facebook ml-4"></i></a>
+        </div>
+  </div>
+  <div class="card5 ">
+    <div class="ami">
+    <img class="mim" src="./akash.jpg" alt="John" style="width:50%">
+    <h1 class="pt-5">Mr.Akash Alif</h1>
+    <h2 >General Member</h2>
+   <i class="text-primary">OBAT Open Library,Rangpur</i>
+   <p class="pt-3">He is Also honorable In-charge,OBAT Think Tank & Scout Team, Bangladesh, Unite Leader, OBAT Open Scout Group,Rangpur,Assistant Teacher,OBAT School,Rangpur. </p>
+</div>
+   <div class="icon ">
+   
+   <a href="#"><i class="fa fa-dribbble ml-4"></i></a>
+    <a href="#"><i class="fa fa-twitter ml-4 "></i></a>
+    <a href="#"><i class="fa fa-linkedin ml-4"></i></a>
+    <a href="#"><i class="fa fa-facebook ml-4 "></i></a>
+</div>
+</div>
+
+ </div>
+</div>
+
+<!-- Material form login -->
+<div class="card9">
+
+    <h5 class="card-header info-color white-text text-center py-4">
+      <strong>Sign in</strong>
+    </h5>
+  
+    <!--Card content-->
+    <div class="card-body px-lg-5 pt-0">
+  
+      <!-- Form -->
+      <form class="text-center" style="color: #757575;" action="#!">
+  
+        <!-- Email -->
+        <div class="md-form">
+          <input type="email" id="materialLoginFormEmail" class="form-control">
+          <label for="materialLoginFormEmail">E-mail</label>
+        </div>
+  
+        <!-- Password -->
+        <div class="md-form">
+          <input type="password" id="materialLoginFormPassword" class="form-control">
+          <label for="materialLoginFormPassword">Password</label>
+        </div>
+  
+        <div class="d-flex justify-content-around">
+          <div>
+            
+          </div>
+          <div>
+            
+          </div>
+        </div>
+  
+        <!-- Sign in button -->
+        <button class="btn btn-outline-info btn-rounded btn-block my-4 waves-effect z-depth-0" type="submit">Sign in</button>
+  
+        
+  <!-- Material form login -->
+
+
+</body>
+
+</html>
